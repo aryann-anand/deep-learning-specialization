@@ -7,7 +7,7 @@
 ### C1 - Neural Networks and Deep Learning
 ##### https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning
 
-![C1 - Neural Networks and Deep Learning]()
+![C1 - Neural Networks and Deep Learning](https://github.com/aryann-anand/deep-learning-specialization/blob/main/1%20Neural%20Networks%20and%20Deep%20Learning/Certificate-Neural%20Networks%20and%20Deep%20Learning.jpeg)
 
 ### C2 - Improving Deep Neural Networks
 ##### https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning
